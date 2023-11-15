@@ -1,0 +1,13 @@
+# cmd
+
+protoc-gen-go-gensc-client
+protoc-gen-go-gensc-server
+gen-server
+
+!cmd/protoc-gen-go-gensc-client
+!cmd/protoc-gen-go-gensc-server
+!cmd/gen-server
+
+# node
+node_modules
+
