@@ -15,7 +15,7 @@ var (
 )
 
 var Cmd = &cobra.Command{
-	Use:   "gen_const",
+	Use:   "gen-const",
 	Short: "gen const code",
 	RunE: func(cmd *cobra.Command, args []string) error {
 		var c gensc.Config

@@ -1,4 +1,5 @@
 
+.PHONY: gensc protoc-gen-go-gensc-server protoc-gen-go-gensc-client
 
 all: gensc protoc-gen-go-gensc-server protoc-gen-go-gensc-client
 
