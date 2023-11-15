@@ -6,11 +6,11 @@ import (
 	"os"
 
 	"github.com/lujingwei002/gensc"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd/gen"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd/gen_behavior"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd/gen_const"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd/gen_model"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd/gen_resource"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd/gen"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd/gen_behavior"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd/gen_const"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd/gen_model"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd/gen_resource"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

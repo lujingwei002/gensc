@@ -1,9 +1,9 @@
 
 
-all: gen-server protoc-gen-go-gensc-server protoc-gen-go-gensc-client
+all: gensc protoc-gen-go-gensc-server protoc-gen-go-gensc-client
 
-gen-server:
-	go build -o gen-server cmd/gen-server/main.go
+gensc:
+	go build -o gensc cmd/gensc/main.go
 
 
 protoc-gen-go-gensc-server:

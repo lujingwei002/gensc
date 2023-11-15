@@ -14,7 +14,7 @@ import (
 	"github.com/urfave/cli/v2"
 
 	"github.com/lujingwei002/gensc"
-	"github.com/lujingwei002/gensc/cmd/gen-server/cmd"
+	"github.com/lujingwei002/gensc/cmd/gensc/cmd"
 	"github.com/lujingwei002/gensc/gen/gen_application"
 	"github.com/lujingwei002/gensc/gen/gen_behavior"
 	"github.com/lujingwei002/gensc/gen/gen_const"

@@ -2,11 +2,11 @@
 
 protoc-gen-go-gensc-client
 protoc-gen-go-gensc-server
-gen-server
+gensc
 
 !cmd/protoc-gen-go-gensc-client
 !cmd/protoc-gen-go-gensc-server
-!cmd/gen-server
+!cmd/gensc
 
 # node
 node_modules
